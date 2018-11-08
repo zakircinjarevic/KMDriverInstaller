@@ -1,0 +1,26 @@
+D:\dotnet\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\KonicaMinoltaDriverInstaller.exe.config
+D:\dotnet\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\KonicaMinoltaDriverInstaller.exe.manifest
+D:\dotnet\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\KonicaMinoltaDriverInstaller.application
+D:\dotnet\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\KonicaMinoltaDriverInstaller.exe
+D:\dotnet\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\KonicaMinoltaDriverInstaller.pdb
+D:\dotnet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\KonicaMinoltaDriverInstaller.MainMenu.resources
+D:\dotnet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\KonicaMinoltaDriverInstaller.Properties.Resources.resources
+D:\dotnet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\Konica Minolta Driver Installer.csproj.GenerateResource.Cache
+D:\dotnet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\KonicaMinoltaDriverInstaller.exe.manifest
+D:\dotnet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\KonicaMinoltaDriverInstaller.application
+D:\dotnet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\KonicaMinoltaDriverInstaller.exe
+D:\dotnet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\KonicaMinoltaDriverInstaller.pdb
+C:\Users\Korisnik\Desktop\Dotnet\Driver installer beta\WindowsFormsApplication1\obj\Release\Konica Minolta Driver Installer.csprojAssemblyReference.cache
+C:\Users\Korisnik\Desktop\Dotnet\Driver installer beta\WindowsFormsApplication1\obj\Release\KonicaMinoltaDriverInstaller.MainMenu.resources
+C:\Users\Korisnik\Desktop\Dotnet\Driver installer beta\WindowsFormsApplication1\obj\Release\KonicaMinoltaDriverInstaller.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\Dotnet\Driver installer beta\WindowsFormsApplication1\obj\Release\Konica Minolta Driver Installer.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\Dotnet\Driver installer beta\WindowsFormsApplication1\obj\Release\KonicaMinoltaDriverInstaller.exe
+C:\Users\Korisnik\Desktop\Dotnet\Driver installer beta\WindowsFormsApplication1\obj\Release\KonicaMinoltaDriverInstaller.pdb
+C:\Users\Korisnik\Desktop\Dotnet\Driver installer beta\WindowsFormsApplication1\bin\Release\KonicaMinoltaDriverInstaller.exe.config
+C:\Users\Korisnik\Desktop\Dotnet\Driver installer beta\WindowsFormsApplication1\bin\Release\KonicaMinoltaDriverInstaller.exe.manifest
+C:\Users\Korisnik\Desktop\Dotnet\Driver installer beta\WindowsFormsApplication1\bin\Release\KonicaMinoltaDriverInstaller.application
+C:\Users\Korisnik\Desktop\Dotnet\Driver installer beta\WindowsFormsApplication1\bin\Release\KonicaMinoltaDriverInstaller.exe
+C:\Users\Korisnik\Desktop\Dotnet\Driver installer beta\WindowsFormsApplication1\bin\Release\KonicaMinoltaDriverInstaller.pdb
+C:\Users\Korisnik\Desktop\Dotnet\Driver installer beta\WindowsFormsApplication1\obj\Release\Konica Minolta Driver Installer.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Dotnet\Driver installer beta\WindowsFormsApplication1\obj\Release\KonicaMinoltaDriverInstaller.exe.manifest
+C:\Users\Korisnik\Desktop\Dotnet\Driver installer beta\WindowsFormsApplication1\obj\Release\KonicaMinoltaDriverInstaller.application

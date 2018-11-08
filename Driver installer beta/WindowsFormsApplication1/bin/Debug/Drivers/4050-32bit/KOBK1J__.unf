@@ -1,0 +1,62 @@
+;
+; KONICA MINOLTA 4750 Series PCL6 Driver UNF-File for x86
+;
+; Copyright(C) 2012 KONICA MINOLTA, INC.
+
+[Version]
+Signature="$Windows NT$"
+Provider=%KM%
+ClassGUID={4D36E979-E325-11CE-BFC1-08002BE10318}
+Class=Printer
+CatalogFile=KOBK1J__.CAT
+DriverVer=08/17/2016,3.2.2.0
+
+[DriverInfo]
+DriverName=KONICA MINOLTA 4750 Series PCL6
+DriverCode=0009
+
+[Uninstall]
+DelReg=Environment_Reg
+DelFiles=KOBK1_COPY,KOBK1_MONITOR
+
+[Environment_Reg]
+HKLM,"System\CurrentControlSet\Control\Print\Printers","StartOnBoot"
+HKCU,"SoftWare\KONICA MINOLTA\KONICA MINOLTA 4750 Series PCL6"
+
+[KOBK1_COPY]
+KOBK1J_G.DLL,,,1
+KOBK1J_X.DLL,,,1
+KOBK1J_F.DLL,,,1
+KOBK1J_C.DLL,,,1
+KOBK1J_U.DLL,,,1
+KOBK1J_S.DLL,,,1
+KOBK1J_R.DLL,,,1
+KOBK1J_J.DLL,,,1
+KOBK1J_D.DLL,,,1
+KOBK1J_W.DLL,,,1
+KOBK1J_M.DLL,,,1
+KOBK1J_O.DLL,,,1
+KOBK1J_N.DLL,,,1
+KOBK1J_C.KPD
+KOBK1J_D.KPD
+KOBK1J_M.KPD
+KOBK1J__.KPD
+KOBK1J__.CNT
+KOBK1J__.HLP
+KOBK1J__.chm,,,1
+KOBK1J__.unf
+KOBK1J_A.kmp
+;KOBK1J_B.kmp
+;KOBK1J_C.kmp
+KOBK1J__.GID,,,1
+
+[KOBK1_MONITOR]
+KOBK1J_L.DLL,,,1
+
+[DestinationDirs]
+DefaultDestDir=66000
+KOBK1_MONITOR=66002
+
+[Strings]
+KM="KONICA MINOLTA"
+DiskName="KONICA MINOLTA 4750 Series PCL6 Driver Disk"

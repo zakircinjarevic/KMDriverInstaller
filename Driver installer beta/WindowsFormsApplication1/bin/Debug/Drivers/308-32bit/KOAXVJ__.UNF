@@ -1,0 +1,89 @@
+;
+; KONICA MINOLTA 958SeriesPCL Driver UNF-File for Win x86
+;
+; Copyright (C) 2003 KONICA MINOLTA, INC.
+;
+
+[Version]
+Signature="$Windows NT$"
+Provider=%KM%
+ClassGUID={4D36E979-E325-11CE-BFC1-08002BE10318}
+Class=Printer
+CatalogFile=KOAXVJ__.CAT
+DriverVer=04/10/2017,9.1.15.0
+
+[DriverInfo]
+DriverName1=KONICA MINOLTA 958SeriesPCL
+DriverName2=KONICA MINOLTA 558SeriesPCL
+DriverName3=KONICA MINOLTA 368SeriesPCL
+DriverName4=KONICA MINOLTA 367SeriesPCL
+DriverCode=0009
+
+[Uninstall.DriverName1]
+DelReg=Environment_Reg.DriverName1
+DelFiles=KOAXV_COPY,PRINT_MONITOR
+
+[Uninstall.DriverName2]
+DelReg=Environment_Reg.DriverName2
+DelFiles=KOAXV_COPY,PRINT_MONITOR
+
+[Uninstall.DriverName3]
+DelReg=Environment_Reg.DriverName3
+DelFiles=KOAXV_COPY,PRINT_MONITOR
+
+[Uninstall.DriverName4]
+DelReg=Environment_Reg.DriverName4
+DelFiles=KOAXV_COPY,PRINT_MONITOR
+
+[Environment_Reg.DriverName1]
+HKLM,"System\CurrentControlSet\Control\Print\Printers","StartOnBoot"
+HKCU,"SoftWare\KONICA MINOLTA\KONICA MINOLTA 958SeriesPCL"
+
+[Environment_Reg.DriverName2]
+HKLM,"System\CurrentControlSet\Control\Print\Printers","StartOnBoot"
+HKCU,"SoftWare\KONICA MINOLTA\KONICA MINOLTA 558SeriesPCL"
+
+[Environment_Reg.DriverName3]
+HKLM,"System\CurrentControlSet\Control\Print\Printers","StartOnBoot"
+HKCU,"SoftWare\KONICA MINOLTA\KONICA MINOLTA 368SeriesPCL"
+
+[Environment_Reg.DriverName4]
+HKLM,"System\CurrentControlSet\Control\Print\Printers","StartOnBoot"
+HKCU,"SoftWare\KONICA MINOLTA\KONICA MINOLTA 367SeriesPCL"
+
+[KOAXV_COPY]
+KOAXVJ_B.DLL,,,1
+KOAXVJ_C.DLL,,,1
+KOAXVJ_D.DLL,,,1
+KOAXVJ_E.DLL,,,1
+KOAXVJ_F.DLL,,,1
+KOAXVJ_G.DLL,,,1
+KOAXVJ_J.DLL,,,1
+KOAXVJ_M.DLL,,,1
+KOAXVJ_N.DLL,,,1
+KOAXVJ_O.DLL,,,1
+KOAXVJ_R.DLL,,,1
+KOAXVJ_S.DLL,,,1
+KOAXVJ_U.DLL,,,1
+KOAXVJ_W.DLL,,,1
+KOAXVJ_X.DLL,,,1
+KOAXVJ_C.KPD
+KOAXVJ_D.KPD
+KOAXVJ_M.KPD
+KOAXVJ__.KPD
+KOAXVJ__.CHM,,,1
+KOAXVJ__.UNF
+KOAXVJ_A.KMP
+KOAXVJ_B.KMP
+KOAXVJ_C.KMP
+
+[PRINT_MONITOR]
+KOAXVJ_L.DLL,,,1
+
+[DestinationDirs]
+DefaultDestDir=66000
+PRINT_MONITOR=66002
+
+[Strings]
+KM="KONICA MINOLTA"
+DiskName="KONICA MINOLTA 958Series Driver Disk"

@@ -1,0 +1,12 @@
+D:\dotnet\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\KonicaMinoltaDriverInstaller.exe.config
+D:\dotnet\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\KonicaMinoltaDriverInstaller.exe.manifest
+D:\dotnet\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\KonicaMinoltaDriverInstaller.application
+D:\dotnet\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\KonicaMinoltaDriverInstaller.exe
+D:\dotnet\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\KonicaMinoltaDriverInstaller.pdb
+D:\dotnet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\KonicaMinoltaDriverInstaller.MainMenu.resources
+D:\dotnet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\KonicaMinoltaDriverInstaller.Properties.Resources.resources
+D:\dotnet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Konica Minolta Driver Installer.csproj.GenerateResource.Cache
+D:\dotnet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\KonicaMinoltaDriverInstaller.exe.manifest
+D:\dotnet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\KonicaMinoltaDriverInstaller.application
+D:\dotnet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\KonicaMinoltaDriverInstaller.exe
+D:\dotnet\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\KonicaMinoltaDriverInstaller.pdb

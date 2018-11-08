@@ -1,0 +1,56 @@
+;
+; KONICA MINOLTA 4020_3320 PCL6 Driver UNF-File for x86
+;
+; Copyright(C) 2013 KONICA MINOLTA, INC.
+; All rights reserved.
+
+[Version]
+Signature="$Windows NT$"
+Provider=%KM%
+ClassGUID={4D36E979-E325-11CE-BFC1-08002BE10318}
+Class=Printer
+CatalogFile=KOBK2J__.CAT
+DriverVer=10/19/2016,1.3.1.0
+
+[DriverInfo]
+DriverName=KONICA MINOLTA 4020_3320 PCL6
+DriverCode=0009
+
+[Uninstall]
+DelReg=Environment_Reg
+DelFiles=KOBK2_COPY,KOBK2_MONITOR
+
+[Environment_Reg]
+HKLM,"System\CurrentControlSet\Control\Print\Printers","StartOnBoot"
+HKCU,"SoftWare\KONICA MINOLTA\KONICA MINOLTA 4020_3320 PCL6"
+
+[KOBK2_COPY]
+KOBK2J_G.DLL,,,1
+KOBK2J_X.DLL,,,1
+KOBK2J_F.DLL,,,1
+KOBK2J_C.DLL,,,1
+KOBK2J_U.DLL,,,1
+KOBK2J_S.DLL,,,1
+KOBK2J_R.DLL,,,1
+KOBK2J_J.DLL,,,1
+KOBK2J_D.DLL,,,1
+KOBK2J_W.DLL,,,1
+KOBK2J_C.KPD
+KOBK2J_D.KPD
+KOBK2J_M.KPD
+KOBK2J__.KPD
+KOBK2J__.CHM,,,1
+KOBK2J__.unf
+KOBK2J_A.KMP
+KOBK2J__.GID,,,1
+
+[KOBK2_MONITOR]
+KOBK2J_L.DLL,,,1
+
+[DestinationDirs]
+DefaultDestDir=66000
+KOBK2_MONITOR=66002
+
+[Strings]
+KM="KONICA MINOLTA"
+DiskName="KONICA MINOLTA 4020_3320 Driver Disk"
